@@ -1,0 +1,19 @@
+{
+  "properties": [
+    {
+      "name": "spring.cloud.gateway.httpclient.connect-timeout",
+      "type": "java.lang.String",
+      "description": "Description for spring.cloud.gateway.httpclient.connect-timeout."
+    },
+    {
+      "name": "spring.cloud.gateway.httpclient.response-timeout",
+      "type": "java.lang.String",
+      "description": "Description for spring.cloud.gateway.httpclient.response-timeout."
+    },
+    {
+      "name": "cors.allowed-origins",
+      "type": "java.lang.String",
+      "description": "Description for cors.allowed-origins."
+    }
+  ]
+}
